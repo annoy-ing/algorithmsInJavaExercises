@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0184b959-3981-4af3-8cbf-59cdbac9bf6c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningAlgorithms/chapter1/exercises/creativeTasks/creativeExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningAlgorithms/chapter1/exercises/creativeTasks/creativeExercises.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,33 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercises.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="97" column="55" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
-              <folding>
-                <marker date="1526387170861" expanded="true" signature="4900:4987" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="creativeExercises.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="Exercise_1_2_1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="289">
+              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -84,7 +62,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,11 +97,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -288,6 +267,78 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="55" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <marker date="1526387170861" expanded="true" signature="4900:4987" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="55" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <marker date="1526387170861" expanded="true" signature="4900:4987" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="55" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <marker date="1526387170861" expanded="true" signature="4900:4987" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3075">
           <caret line="205" column="9" selection-start-line="205" selection-start-column="9" selection-end-line="205" selection-end-column="9" />
           <folding>
@@ -342,15 +393,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/creativeTasks/creativeExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
+        <state relative-caret-position="402">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/exercises/Exercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="97" column="55" lean-forward="true" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
+        <state relative-caret-position="15">
+          <caret line="97" column="55" selection-start-line="96" selection-start-column="7" selection-end-line="97" selection-end-column="55" />
           <folding>
             <marker date="1526387170861" expanded="true" signature="4900:4987" ph="..." />
           </folding>
@@ -359,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter2/Exercise_1_2_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="289">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
         </state>
       </provider>
     </entry>
