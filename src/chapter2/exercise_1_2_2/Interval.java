@@ -30,7 +30,8 @@ public class Interval {
     }
 
     public boolean intersect(Interval o){
-        if (this.areOnInterval(o.getStartPoint()) || this.areOnInterval(o.getEndPoint())) return true;
+        if (this.areOnInterval(o.getStartPoint()) || this.areOnInterval(o.getEndPoint()) ||
+                o.areOnInterval(this.getStartPoint()) || o.areOnInterval(this.getEndPoint())) return true;
         else return false;
     }
 

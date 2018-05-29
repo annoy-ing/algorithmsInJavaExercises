@@ -19,12 +19,12 @@ public class Main {
         }
 
         for (int j = 0; j < array.length; j++) {
-            for (int k = 0; k < array.length; k++) {
-                if (k != j) {
-                    if (array[j].equals(array[k]) == 0) {
-                        System.out.println(array[j] + " and " + array[k] + " are intercepting");
-                    }
+            for (int k = 0; k < j; k++) {
+
+                if (array[j].intersect(array[k])) {
+                    System.out.println(array[j] + " and " + array[k] + " are intersecting.");
                 }
+
             }
 
         }
